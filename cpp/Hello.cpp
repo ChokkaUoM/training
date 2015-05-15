@@ -1,7 +1,7 @@
-#include<Hello.h>
+#include<iostream>
 
-void hello()
+int main(int argc,char* argv[])
 {
-	printf("Hello World\n");
+	std::cout<<"Hello World"<<std::endl;
 
 }
